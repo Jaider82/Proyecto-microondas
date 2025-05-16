@@ -51,6 +51,57 @@
         "precio": 312.000,
         "potencia": 950
       }
+    },
+    {
+        "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.64009603943561, -74.06604447284697]
+      },
+      "properties": {
+        "marca": "WHIRLPOOL",
+        "alto": 26.2,
+        "ancho": 45.2,
+        "profundidad": 34.4,
+        "modelo": "WM1807D",
+        "voltaje": "NE",
+        "precio": 312.000,
+        "potencia": 950
+      }
+    },
+    {
+        "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.64009603943561, -74.06604447284697]
+      },
+      "properties": {
+        "marca": "WHIRLPOOL",
+        "alto": 26.2,
+        "ancho": 45.2,
+        "profundidad": 34.4,
+        "modelo": "WM1807D",
+        "voltaje": "NE",
+        "precio": 312.000,
+        "potencia": 950
+      }
+    },
+    {
+        "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.64009603943561, -74.06604447284697]
+      },
+      "properties": {
+        "marca": "WHIRLPOOL",
+        "alto": 26.2,
+        "ancho": 45.2,
+        "profundidad": 34.4,
+        "modelo": "WM1807D",
+        "voltaje": "NE",
+        "precio": 312.000,
+        "potencia": 950
+      }
     }
     
   ]
